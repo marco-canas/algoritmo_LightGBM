@@ -4,7 +4,7 @@ Este es un **Diseño de Curso Completo** estructurado bajo un enfoque teórico-p
 
 # Diseño de Curso: Machine Learning para Clima y Salud con LightGBM
 
-## 📋 Ficha Técnica del Curso
+## Ficha Técnica del Curso
 
 * **Nombre del Curso:** Predicción de Epidemias y Variables Climáticas con LightGBM: Enfoque de Series de Tiempo
 * **Duración Total:** 40 horas (sugerido: 8 semanas, 5 horas por semana)
@@ -13,7 +13,7 @@ Este es un **Diseño de Curso Completo** estructurado bajo un enfoque teórico-p
 
 ---
 
-## 🎯 Objetivos de Aprendizaje
+## Objetivos de Aprendizaje
 
 Al finalizar este curso, el estudiante será capaz de:
 
@@ -25,9 +25,9 @@ Al finalizar este curso, el estudiante será capaz de:
 
 ---
 
-## 📚 Estructura de Módulos y Contenido
+# Estructura de Módulos y Contenido
 
-### Módulo 1: Fundamentos de LightGBM y Particularidades de Clima y Salud
+## Módulo 1: Fundamentos de LightGBM y Particularidades de Clima y Salud
 
 * **Clase 1.1:** Arquitectura de LightGBM: Crecimiento por hojas (*Leaf-wise*) vs. Crecimiento por niveles (*Level-wise*). ¿Por qué es óptimo para grandes volúmenes de datos exógenos?
 * **Clase 1.2:** La naturaleza de los datos meteorológicos (continuos, cíclicos, colineales) y epidemiológicos (conteos discretos, distribución sesgada, ceros estructurales).
